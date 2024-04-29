@@ -1,0 +1,82 @@
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.exe
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.pdb
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CopyComplete
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.pdb
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Manav Rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.exe
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.pdb
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Npgsql.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.pdb
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
+C:\Users\manav.rijwani\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
